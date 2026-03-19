@@ -1,3 +1,4 @@
+# Taschenrechner von Marcel Bauer
 """
 # def = definieren einer Funktion
 def addieren(a, b) :
